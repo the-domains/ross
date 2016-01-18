@@ -1,0 +1,28 @@
+name: ross
+favicon: null
+layout_spectrum: 0.036963893100619316
+typography_spectrum: 0.5298529118299484
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8897629976272583
+  lightness: 0.6453944207169116
+  saturation: 0.3817540106829256
+  rhythmicContrast: 0.7951049341354519
+purpose: []
